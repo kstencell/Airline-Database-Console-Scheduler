@@ -14,4 +14,74 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="airline.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="airplane.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="flight.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="flightnode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="flightsADT.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="passenger.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="seat.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="seatnode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="seatsADT.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="airline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="airplane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="flight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="flightnode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="flightsADT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="passenger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="seat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="seatnode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="seatsADT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
